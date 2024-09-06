@@ -76,4 +76,3 @@ Before installing the project, ensure you have the following installed on your s
 - **Save Favorite Repositories**: Added a dedicated section explaining how users can save repositories to their personalized space, organize them, and access them later.
 - The "Save to Favorites" functionality ties into the user's profile, enhancing the user experience with easy access to their favorite repos from various platforms.
 
-This README now reflects a more community-driven and personalized approach to **FindRepos**, similar to app.daily.dev's focus on user engagement and profile features.
