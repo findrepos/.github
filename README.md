@@ -68,9 +68,12 @@ Before installing the project, ensure you have the following installed on your s
 - **Node.js** (version 16.x or later)
 - **MongoDB** (running locally or remotely)
 
-### Setup Steps
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/findrepos.git
-   cd findrepos
+---
+
+### Key Update:
+
+- **Save Favorite Repositories**: Added a dedicated section explaining how users can save repositories to their personalized space, organize them, and access them later.
+- The "Save to Favorites" functionality ties into the user's profile, enhancing the user experience with easy access to their favorite repos from various platforms.
+
+This README now reflects a more community-driven and personalized approach to **FindRepos**, similar to app.daily.dev's focus on user engagement and profile features.
