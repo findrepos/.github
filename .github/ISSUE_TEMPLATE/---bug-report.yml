@@ -8,7 +8,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        - Thank you for using daily.dev and taking the time to report a bug! 😄 
+        - Thank you for using findrepos.dev and taking the time to report a bug! 😄 
         - Please try to spend some time to understand the bug and reproduce it.
         - Take a look at our template and try to add as much detail as possible.
         - The more details we have, easier it would be to fix it. 
