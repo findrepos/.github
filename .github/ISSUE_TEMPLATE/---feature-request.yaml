@@ -9,7 +9,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        - Thank you for using daily.dev and taking time to request a feature.
+        - Thank you for using findrepos.dev and taking time to request a feature.
         - Please try to spend some time to clearly speculate on the feature you need.
         - Take a look at our template and try to add as much detail as possible.
         - The more details we have, easier it would be to fix it. 
@@ -26,7 +26,7 @@ body:
     id: description_feature
     attributes:
       label: "Description"
-      description: Please describe the new functionality you would like to see added to daily.dev in a clear and detailed manner.
+      description: Please describe the new functionality you would like to see added to findrepos.dev in a clear and detailed manner.
       placeholder: Please enter your detailed description of the new feature request here. 
     validations:
       required: true
@@ -49,7 +49,7 @@ body:
     id: terms
     attributes:
       label: Code of Conduct
-      description: By submitting this issue, you agree to follow our [Code of Conduct](https://github.com/dailydotdev/.github/blob/master/CODE_OF_CONDUCT.md) and [Contributing Guidelines](https://github.com/dailydotdev/.github/blob/master/CONTRIBUTING.md)
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://github.com/findrepos.dev/.github/blob/master/CODE_OF_CONDUCT.md) and [Contributing Guidelines](https://github.com/findrepos.dev/.github/blob/master/CONTRIBUTING.md)
       options:
         - label: I follow the conditions of this project.
           required: true
