@@ -28,11 +28,4 @@ At FindRepos, we believe that open-source collaboration fuels innovation. By mak
 - **Authentication**: OAuth (GitHub, GitLab, Bitbucket)
 - **APIs**: GitHub, GitLab, Bitbucket, Hashnode, Dev.to
 
----
-
-## 🏗️ Getting Started
-
-### Prerequisites
-
-
 
