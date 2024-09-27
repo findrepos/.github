@@ -34,18 +34,5 @@ At FindRepos, we believe that open-source collaboration fuels innovation. By mak
 
 ### Prerequisites
 
-- **Node.js** (v14 or above)
-- **MongoDB** (for database)
-- **Git**
-
-### Installation
-
-1. **Fork this repository** and clone your fork:
-
-   ```bash
-   git clone https://github.com/your-username/findrepos.git
-   cd findrepos
-
-   Install dependencies:
 
 
